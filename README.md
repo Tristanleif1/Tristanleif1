@@ -1,5 +1,5 @@
 ### Hi there 👋 My name is Tristan!
-
+  A Full-Stack Software Engineer with a passion for innovation and making visions come to life! Excited for the what the future holds and what awesome projects I get to work on next. 
 
 
 
@@ -14,3 +14,5 @@
 -->
 
 - You can also reach out to me via email: tristanallaman@gmail.com
+
+
