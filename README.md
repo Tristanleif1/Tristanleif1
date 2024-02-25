@@ -12,7 +12,6 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tristan-allaman-a18206232/)
 - 😄 Pronouns: ...He/Him
 - 🔭Fun fact: ...I can find the Andromeda Galaxy using my Telescope!
--->
   Currently looking for an entry level frontend, backend or full-stack software engineering position!
 
 - You can also reach out to me via email: tristanallaman@gmail.com
