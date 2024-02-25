@@ -1,7 +1,7 @@
 ### Hi there 👋 My name is Tristan!
   A Full-Stack Software Engineer with a passion for innovation and making visions come to life! Excited for the what the future holds and what awesome projects I get to work on next. 
 
-  [![GitHub Views](https://komarev.com/ghpvc/?username=Tristanleif1&color=FAC151)]
+  ![GitHub Views](https://komarev.com/ghpvc/?username=Tristanleif1&color=FAC151)
 
 
 - ⚡ I’m currently working on adding a new feature to a project
