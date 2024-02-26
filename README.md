@@ -5,7 +5,7 @@
 
 
 - ⚡ I’m currently working on adding a new feature to a project
-- 🌱 I’m currently learning AWS, SCSS
+- 🌱 I’m currently learning AWS, SCSS, Tailwind
 - 👯 I’ve collaborated on [Pledge Palooza](https://pledgepalooza.onrender.com/)
 - 🤔 I’m looking for help with learning C#
 - 💬 Ask me about Soft Skills and Hobbies!
