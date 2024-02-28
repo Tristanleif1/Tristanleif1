@@ -4,10 +4,10 @@
   ![GitHub Views](https://komarev.com/ghpvc/?username=Tristanleif1&color=FAC151)
 
 
-- ⚡ I’m currently working on adding a new feature to a project
+- ⚡ I’m currently working on pagination for the homepage on my flashcard app/quiz app!
 - 🌱 I’m currently learning AWS, SCSS, Tailwind
 - 👯 I’ve collaborated on [Pledge Palooza](https://pledgepalooza.onrender.com/)
-- 🤔 I’m looking for help with learning C#
+- 🤔 I’m looking for help with learning Java
 - 💬 Ask me about Soft Skills and Hobbies!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tristan-allaman-a18206232/)
 - 😄 Pronouns: ...He/Him
