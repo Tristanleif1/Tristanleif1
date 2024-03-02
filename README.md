@@ -6,7 +6,7 @@ Transitioning from a solid foundation in Biology and invaluable experience as an
 
 
 - ⚡ I’m currently working on pagination for the homepage on my flashcard app/quiz app!
-- 🌱 I’m currently learning AWS, SCSS, Tailwind
+- 🌱 I’m currently learning SCSS, Tailwind
 - 👯 I’ve collaborated on [Pledge Palooza](https://pledgepalooza.onrender.com/)
 - 🤔 I’m looking for help with learning Java
 - 💬 Ask me about Soft Skills and Hobbies!
