@@ -5,7 +5,7 @@ Transitioning from a solid foundation in Biology and invaluable experience as an
   ![GitHub Views](https://komarev.com/ghpvc/?username=Tristanleif1&color=FAC151)
 
 
-- ⚡ I’m currently working on pagination for the homepage on my flashcard app/quiz app!
+- ⚡ I’m currently working on pagination for the homepage on my flashcard and quiz app!
 - 🌱 I’m currently learning SCSS, Tailwind
 - 👯 I’ve collaborated on [Pledge Palooza](https://pledgepalooza.onrender.com/)
 - 🤔 I’m looking for help with learning AWS
