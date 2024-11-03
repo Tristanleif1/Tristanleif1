@@ -8,7 +8,7 @@ With a background in Biology and hands-on experience as an EMT, I bring a unique
 - ⚡ Im currently adding more exicting features to my studying app!
 - 🌱 I’m currently learning Vue.js, Tailwind
 - 👯 I’ve collaborated on [Pledge Palooza](https://pledgepalooza.onrender.com/)
-- 🤔 I’m looking for help with learning AWS
+- 🤔 I’m looking for help with learning Java
 - 💬 Ask me about Soft Skills and Hobbies!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tristan-allaman-a18206232/)
 - 😄 Pronouns: ...He/Him
